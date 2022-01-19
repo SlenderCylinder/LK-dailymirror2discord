@@ -49,7 +49,7 @@ def fetch_dm():
 
                     
             data = {
-                    "username" : "Pomoji - LK News",
+                    "username" : "DailyMirror - LK News",
                     }   
             data["embeds"] = [
                     {
